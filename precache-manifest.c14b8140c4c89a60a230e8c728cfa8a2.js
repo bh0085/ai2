@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~app.7330c613.js"
   },
   {
-    "revision": "b6b8dd299733d80f7ada",
-    "url": "/static/js/2.1491954e.chunk.js"
+    "revision": "3e3403c86c853c2cd23d",
+    "url": "/static/js/2.352377d3.chunk.js"
   },
   {
     "revision": "b2e0fc821c6886fb3940f85a3320003e",
@@ -140,7 +140,7 @@ self.__precacheManifest = [
     "url": "/apple/splash/icon_828x1792.png"
   },
   {
-    "revision": "5d2e4fcb88116b7eca1d041ba4bc5057",
+    "revision": "3f6d04cc90d61bc882047483932316ec",
     "url": "/index.html"
   },
   {

@@ -3,8 +3,8 @@
   "app.41d59e0107ed3362fac2.map": "/41d59e0107ed3362fac2.map",
   "runtime~app.js": "/static/js/runtime~app.7330c613.js",
   "runtime~app.6a390727085a255046dd.map": "/6a390727085a255046dd.map",
-  "static/js/2.1491954e.chunk.js": "/static/js/2.1491954e.chunk.js",
-  "b6b8dd299733d80f7ada.map": "/b6b8dd299733d80f7ada.map",
+  "static/js/2.352377d3.chunk.js": "/static/js/2.352377d3.chunk.js",
+  "3e3403c86c853c2cd23d.map": "/3e3403c86c853c2cd23d.map",
   "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
   "fonts/Entypo.ttf": "/./fonts/Entypo.ttf",
   "fonts/Feather.ttf": "/./fonts/Feather.ttf",
@@ -35,7 +35,7 @@
   "favicon.ico": "/favicon.ico",
   "index.html": "/index.html",
   "manifest.json": "/manifest.json",
-  "precache-manifest.19ab51e90cca514efea1dd83ae42eadb.js": "/precache-manifest.19ab51e90cca514efea1dd83ae42eadb.js",
+  "precache-manifest.c14b8140c4c89a60a230e8c728cfa8a2.js": "/precache-manifest.c14b8140c4c89a60a230e8c728cfa8a2.js",
   "serve.json": "/serve.json",
   "static/media/robot-prod.png": "/static/media/robot-prod.c7578911.png"
 }
